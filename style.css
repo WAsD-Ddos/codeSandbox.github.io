@@ -249,6 +249,7 @@ body {
   }
 }
 .main__nav {
+  text-decoration: none;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
