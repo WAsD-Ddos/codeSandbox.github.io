@@ -70,6 +70,7 @@ body {
     display: none;
     top: 100%;
     left: 0%;
+    right: 0%;
     background-color: #1A1A1A;
     border-radius: 8px;
     padding: 1rem;
