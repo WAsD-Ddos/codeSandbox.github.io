@@ -150,8 +150,8 @@ body {
 }
 @media (max-width: 768px) {
   .header__button {
-    width: 11.875rem;
-    height: 1.8rem;
+    width: 11.5625rem;
+    height: 2.1875rem;
     font-size: 0.75rem;
     margin-left: auto;
   }
