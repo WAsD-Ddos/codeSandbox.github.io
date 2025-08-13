@@ -37,7 +37,7 @@ body {
   }
 }
 .header__logo img {
-  max-width: 65%;
+  max-width: 65в%;
 }
 @media (max-width: 768px) {
   .header__logo img {
@@ -141,6 +141,8 @@ body {
 }
 @media (max-width: 768px) {
   .header__button {
+    width: rem(150);
+    font-size: rem(10);
     margin-left: auto;
   }
 }
