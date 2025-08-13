@@ -42,7 +42,7 @@ body {
 }
 @media (max-width: 768px) {
   .header__logo img {
-    max-width: 55%;
+    max-width: 60%;
   }
 }
 .header__nav {
@@ -150,6 +150,9 @@ body {
 }
 @media (max-width: 768px) {
   .header__button {
+    width: 8.8125rem;
+    height: 2.1rem;
+    font-size: 0.8rem;
     margin-left: auto;
   }
 }
