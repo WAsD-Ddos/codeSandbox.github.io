@@ -41,7 +41,7 @@ body {
 }
 @media (max-width: 768px) {
   .header__logo img {
-    max-width: 60%;
+    max-width: 55%;
   }
 }
 .header__nav {
