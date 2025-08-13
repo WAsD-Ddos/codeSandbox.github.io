@@ -37,7 +37,7 @@ body {
   }
 }
 .header__logo img {
-  max-width: 65в%;
+  max-width: 65%;
 }
 @media (max-width: 768px) {
   .header__logo img {
@@ -138,13 +138,6 @@ body {
 }
 .header__button:hover {
   background-color: #DCFF50;
-}
-@media (max-width: 768px) {
-  .header__button {
-    width: rem(150);
-    font-size: rem(10);
-    margin-left: auto;
-  }
 }
 .header__burger {
   display: none;
